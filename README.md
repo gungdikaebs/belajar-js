@@ -9,3 +9,5 @@ Ini merupakan project yang saya buat untuk mentracking kemampuan saya dalam baha
 ![App Screenshot](https://i.imgur.com/ybhvAJL.png)
 - Random Color
 ![App Screenshot](https://i.imgur.com/RCP08OP.png)
+- Games Pukul Tikus
+![App Screenshot](https://i.imgur.com/ceA111d.png)
