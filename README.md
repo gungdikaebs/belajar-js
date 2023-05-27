@@ -7,4 +7,5 @@ Ini merupakan project yang saya buat untuk mentracking kemampuan saya dalam baha
 ## Screenshots
 - Todolist
 ![App Screenshot](https://i.imgur.com/ybhvAJL.png)
-
+- Random Color
+![App Screenshot](https://imgur.com/a/szSSWSg)
