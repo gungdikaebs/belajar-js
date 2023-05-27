@@ -8,4 +8,4 @@ Ini merupakan project yang saya buat untuk mentracking kemampuan saya dalam baha
 - Todolist
 ![App Screenshot](https://i.imgur.com/ybhvAJL.png)
 - Random Color
-![App Screenshot](https://imgur.com/szSSWSg)
+![App Screenshot](https://i.imgur.com/a/szSSWSg)
